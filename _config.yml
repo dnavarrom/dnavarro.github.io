@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
+title: 
+description: 
 plugins:
   - jekyll-relative-links
 relative_links:
