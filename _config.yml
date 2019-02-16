@@ -1,5 +1,5 @@
-theme: jekyll-theme-minimal
-title: 
+theme: jekyll-theme-minima
+title: Personal projects log
 description: 
 plugins:
   - jekyll-relative-links
