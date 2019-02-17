@@ -1,6 +1,10 @@
-theme: jekyll-theme-minima
-title: Personal projects log
-description: 
+#theme: jekyll-theme-minima
+#theme : minima
+#theme : jekyll-theme-tactile
+#theme : jekyll-theme-cayman
+theme : jekyll-theme-primer
+title: Code Placard
+description: Some code experiments
 plugins:
   - jekyll-relative-links
 relative_links:
