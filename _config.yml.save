@@ -1,0 +1,11 @@
+theme
+title: Personal projects log
+description: 
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+  
