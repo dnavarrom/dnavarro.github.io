@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="" generator-info-url="">
+  <channel id="101556">
+    <display-name>TV Educa Chile</display-name>
+  </channel>
+  <channel id="101700">
+    <display-name>Rewind TV</display-name>
+  </channel>
+  <channel id="103795">
+    <display-name>CEAC TV</display-name>
+  </channel>
+  <channel id="103887">
+    <display-name>Jetix</display-name>
+  </channel>
+  <channel id="104268">
+    <display-name>NASA TV</display-name>
+  </channel>
+  <programme channel="103795" start="20200530000000" stop="20200530235900">
+    <title lang="es">¡toi toi! Queremos invitarlos y pedirles su donación para apoyar a los artistas profesionales del ámbito de la música clásica y la danza, quienes se han visto imposibilitados de realizar labores remuneradas durante estos meses. Más detalles en ceactv.cl</title>
+    <sub-title lang="en"/>
+    <desc lang="es"/>
+  </programme>
+  <programme channel="103795" start="20200531000000" stop="20200531235900">
+    <title lang="es">¡toi toi! Queremos invitarlos y pedirles su donación para apoyar a los artistas profesionales del ámbito de la música clásica y la danza, quienes se han visto imposibilitados de realizar labores remuneradas durante estos meses. Más detalles en ceactv.cl</title>
+    <sub-title lang="en"/>
+    <desc lang="es"/>
+  </programme>
+  <programme channel="101700" start="20200530000000" stop="20200530235900">
+    <title lang="es">Videos Musicales</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Pide tus videos musicales favoritos en www.rewindtv.cl</desc>
+  </programme>
+  <programme channel="101700" start="20200531000000" stop="20200531235900">
+    <title lang="es">Videos Musicales</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Pide tus videos musicales favoritos en www.rewindtv.cl</desc>
+  </programme>
+  <programme channel="103887" start="20200530000000" stop="20200530235900">
+    <title lang="es">Programación Jetix</title>
+    <sub-title lang="en"/>
+    <desc lang="es">ProjectJetix, es un proyecto sin fines de lucro, con el objetivo de revivir esas tardes viendo el canal de televisión JETIX. canaljetixla.weebly.com</desc>
+  </programme>
+  <programme channel="103887" start="20200531000000" stop="20200531235900">
+    <title lang="es">Programación Jetix</title>
+    <sub-title lang="en"/>
+    <desc lang="es">ProjectJetix, es un proyecto sin fines de lucro, con el objetivo de revivir esas tardes viendo el canal de televisión JETIX. canaljetixla.weebly.com</desc>
+  </programme>
+  <programme channel="101556" start="20200530060000" stop="20200530100200">
+    <title lang="es">Despierta</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Busca activar y poner en alerta los sentidos. Es un momento de energía, movimiento, música y risas.</desc>
+  </programme>
+  <programme channel="101556" start="20200531060000" stop="20200531100200">
+    <title lang="es">Despierta</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Busca activar y poner en alerta los sentidos. Es un momento de energía, movimiento, música y risas.</desc>
+  </programme>
+  <programme channel="101556" start="20200530100300" stop="20200530115400">
+    <title lang="es">Descubre</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Reúne la línea de contenidos pedagógicos alineados al curriculum escolar. Comprende Aprendo TV Mineduc.</desc>
+  </programme>
+  <programme channel="101556" start="20200531100300" stop="20200531115400">
+    <title lang="es">Descubre</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Reúne la línea de contenidos pedagógicos alineados al curriculum escolar. Comprende Aprendo TV Mineduc.</desc>
+  </programme>
+  <programme channel="104268" start="20200530110000" stop="20200530170000">
+    <title lang="es">Lanzamiento SpaceX/DM-2. Nasa y SpaceX</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Cobertura en vivo del lanzamiento de la misión Crew Dragon de SpaceX/DM-2 a la Estación Espacial Internacional: Lanzamiento planificado para las 3:22 p.m.</desc>
+  </programme>
+  <programme channel="101556" start="20200530115500" stop="20200530123100">
+    <title lang="es">Crea</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Espacio activo de estimulación y creatividad en diferentes ámbitos: manualidades, cocina, música, arte, etc.</desc>
+  </programme>
+  <programme channel="101556" start="20200531115500" stop="20200531123100">
+    <title lang="es">Crea</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Espacio activo de estimulación y creatividad en diferentes ámbitos: manualidades, cocina, música, arte, etc.</desc>
+  </programme>
+  <programme channel="101556" start="20200530123200" stop="20200530142500">
+    <title lang="es">Diviértete</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Este segmento es el "recreo del día". Es un espacio de relajo con juegos, risas y locuras.</desc>
+  </programme>
+  <programme channel="101556" start="20200531123200" stop="20200531142500">
+    <title lang="es">Diviértete</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Este segmento es el "recreo del día". Es un espacio de relajo con juegos, risas y locuras.</desc>
+  </programme>
+  <programme channel="101556" start="20200530142600" stop="20200530160400">
+    <title lang="es">Despierta</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Busca activar y poner en alerta los sentidos. Es un momento de energía, movimiento, música y risas.</desc>
+  </programme>
+  <programme channel="101556" start="20200531142600" stop="20200531160400">
+    <title lang="es">Despierta</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Busca activar y poner en alerta los sentidos. Es un momento de energía, movimiento, música y risas.</desc>
+  </programme>
+  <programme channel="101556" start="20200530160500" stop="20200530175600">
+    <title lang="es">Descubre</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Reúne la línea de contenidos pedagógicos alineados al curriculum escolar. Comprende Aprendo TV Mineduc.</desc>
+  </programme>
+  <programme channel="101556" start="20200531160500" stop="20200531175600">
+    <title lang="es">Descubre</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Reúne la línea de contenidos pedagógicos alineados al curriculum escolar. Comprende Aprendo TV Mineduc.</desc>
+  </programme>
+  <programme channel="101700" start="20200530170000" stop="20200530175900">
+    <title lang="es">Videos Musicales.</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Pide tus videos musicales favoritos en www.rewindtv.cl</desc>
+  </programme>
+  <programme channel="104268" start="20200530170000" stop="20200530235900">
+    <title lang="es">Programación NASA TV</title>
+    <sub-title lang="en"/>
+    <desc lang="es"/>
+  </programme>
+  <programme channel="101556" start="20200530175700" stop="20200530183500">
+    <title lang="es">Crea</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Espacio activo de estimulación y creatividad en diferentes ámbitos: manualidades, cocina, música, arte, etc.</desc>
+  </programme>
+  <programme channel="101556" start="20200531175700" stop="20200531183500">
+    <title lang="es">Crea</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Espacio activo de estimulación y creatividad en diferentes ámbitos: manualidades, cocina, música, arte, etc.</desc>
+  </programme>
+  <programme channel="101556" start="20200530183500" stop="20200530212800">
+    <title lang="es">Diviértete</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Este segmento es el "recreo del día". Es un espacio de relajo con juegos, risas y locuras.</desc>
+  </programme>
+  <programme channel="101556" start="20200531183500" stop="20200531212800">
+    <title lang="es">Diviértete</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Este segmento es el "recreo del día". Es un espacio de relajo con juegos, risas y locuras.</desc>
+  </programme>
+  <programme channel="101556" start="20200530212900" stop="20200530235900">
+    <title lang="es">Diviértete en familia</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Es un espacio para disfrutar en familia con documentales, ficciones históricas, o programas misceláneos para ser consumidos por niños y que además entreguen conocimiento.</desc>
+  </programme>
+  <programme channel="101556" start="20200531212900" stop="20200531235900">
+    <title lang="es">Diviértete en familia</title>
+    <sub-title lang="en"/>
+    <desc lang="es">Es un espacio para disfrutar en familia con documentales, ficciones históricas, o programas misceláneos para ser consumidos por niños y que además entreguen conocimiento.</desc>
+  </programme>
+</tv>
