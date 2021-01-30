@@ -3,8 +3,7 @@
 
 ## What is this
 
-A world filled by creatures who respond to external and internal conditions to develop and survive. The name and concept were influenced by [this](https://en.wikipedia.org/wiki/The_World_as_Will_and_Representation). Schopenhauer's philosophy holds that all nature is the expression of an insatiable will to life, "Will is the innermost essence, the kernel, of every particular thing and also of the whole. It appears in every blindly acting force of nature".
-
+A world filled by creatures who respond to external and internal conditions to develop and survive.
 
 ## Demo 
 
